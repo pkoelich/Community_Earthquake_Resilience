@@ -1,0 +1,1 @@
+# earthquake_vulnerability_map
