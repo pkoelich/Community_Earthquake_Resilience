@@ -21,6 +21,8 @@ This application is an interactive dashboard that showcases earthquake resilienc
 
 [Link to Community Earthquake Resilience Visualizer](https://kvu01124.github.io/earthquake_resilience_dashboard/)
 
+[Link to Dashboard Repository & Source Code](https://github.com/kvu01124/earthquake_resilience_dashboard)
+
 ## Features
 
 - Interactive map visualization of earthquake resilience metrics across different regions
