@@ -56,23 +56,6 @@ This application is an interactive dashboard that showcases earthquake resilienc
 
 4. Open your browser and navigate to `http://localhost:3000`
 
-### Project Structure
-
-```
-community-earthquake-resilience/
-├── public/
-│   ├── data/
-│   │   └── map-data.geojson   # GeoJSON data with resilience metrics
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── LeafletDashboard/
-│   │       ├── LeafletDashboard.jsx
-│   │       └── LeafletDashboard.css
-│   ├── App.js
-│   └── index.js
-└── README.md
-```
 
 ## Technologies Used
 
