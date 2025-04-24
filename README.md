@@ -1,12 +1,12 @@
-# Community Earthquake Resilience
+# Community Earthquake Resilience Visualizer
 
 ## 1. Introduction
 The entirety of British Columbia's south coast experiences frequent seismic activity as it sits on top of the Cascadia Subduction Zone, where the Juan de Fuca plate subducts beneath the North American plate. As it is a hotspot for seismic activity, residents of the area usually hear about "The Big One", a magnitude 9.0 earthquake projected to happen at some point, whenever an earthquake is felt. Even if it isn't 'The Big One' earthquakes are a credible threat to public safety and it is important that we are constantly improving our preparedness in case of an emergency.
 
-Also important is identifying vulnerable areas, where people might be more at risk of suffering severe consequences should an earthquake occur. We have identified several factors that might lead to populations being more vulnerable to earthquakes, and have generated a map scoring these factors via an Analytic Heirarchy Process(AHP), to perform a Multiple-Criteria Decision Analysis(MCDA), identifying areas where the residents are more or less vulnerable in case of an earthquake emergency scenario.
+Also important is identifying vulnerable areas, where people might be more at risk of suffering severe consequences should an earthquake occur. We have chosen the city of Surrey, British Columbia, as the subject for a proof-of-concept
+We have identified several factors that might lead to populations being more vulnerable to earthquakes, and have generated a map scoring these factors via an Analytic Heirarchy Process(AHP), to perform a Multiple-Criteria Decision Analysis(MCDA), identifying areas where community resilience is likely to be higher in case of an earthquake emergency scenario. 
 
 ### Factors:
-
 1. Building age - older buildings are usually not built to the same standard as newer ones, and have wear-and-tear applied to them which makes them more vulnerable to earthquakes.
 2. Housing suitability - shows where more people live in housing that requires major repairs or is considered unsuitable according to Statistics Canada. This means either overcrowded housing or houses that might suffer more damage in case of an earthquake
 3. Age of residents - people under the age of 14 and over the age of 65 were considered more vulnerable, as they are likely to require more care in an emergency scenario.
@@ -14,25 +14,36 @@ Also important is identifying vulnerable areas, where people might be more at ri
 5. Proximity to hospitals - assuming the hospital does not get severely damaged by an earthquake, how close you are to the hospital means greater access to treatment 
 6. Proximity to urgent care centres -  assuming the buildings do not get damaged by the earthquake, it is easier to recieve treatment there the closer you are to it.
 
+
+## 2. App description
+
+This application is an interactive dashboard that showcases earthquake resilience by census dissemination in Surrey, BC. The user can switch from looking at the overal resilience score, to the individual indices that make up the score by selecting an indices in the Display Index dropdown. There is also a chart widget, where users can select an individual dissemination area to show a bar chart or a radar chart to showcase the distribution of scores in a specific dissemination area. When mousing over a dissemination area, a popup shows some more relevant information as well. 
+
 ## 2. Methods
-MCDA with AHP
 
-Proximity to hospital
+This information product is derived from a series of indices
 
-Proximity to urgent care centres
+### Proximity to hospital
 
-Language/Communication
 
-Building Age
+### Proximity to urgent care centres
 
-Housing Suitability
+### Language/Communication
 
-Age of Resident
+### Building Age
+
+### Housing Suitability
+
+### Age of Resident
 
 ## 3. User guide
 
 
+
+
 ## References
+
+## Information Sources
 
 ### Articles
 
