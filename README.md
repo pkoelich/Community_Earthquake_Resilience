@@ -21,22 +21,28 @@ This application is an interactive dashboard that showcases earthquake resilienc
 
 ## 2. Methods
 
-This information product is derived from a series of indices
+This information product is derived from a series of indices, which were derived from raw open data, some of which was obtained from geo.ca. The methods for deriving the 
 
 ### Proximity to hospital
 
+This was created using a road network for the City of Surrey, and scores were assigned based on whether most of the dissemination area was within an appropriate walking distance of a hospital. The distance thresholds used were 500, 1000, and 1500 metres. The score was then min-max normalized for use in the AHP.
 
 ### Proximity to urgent care centres
 
-### Language/Communication
+This was created using a road network for the City of Surrey, and scores were assigned based on whether most of the dissemination area was within an appropriate walking distance of an urgent care centre. The distance thresholds used were 500, 1000, and 1500 metres. The score was then min-max normalized for use in the AHP.
+
+### Communication
+
+Using census data, we are able to find out what proportion of a Dissemination area did not speak either official language in Canada. The score was then min-max normalized for use in the AHP.
 
 ### Building Age
+
+
 
 ### Housing Suitability
 
 ### Age of Resident
 
-## 3. User guide
 
 
 
@@ -44,6 +50,15 @@ This information product is derived from a series of indices
 ## References
 
 ## Information Sources
+
+| Name    | Source |    link | 
+| -------- | ------- |  ------- |
+| Dissemination area digital boundary 2021 | Statistics Canada | [Link](https://www150.statcan.gc.ca/n1/en/catalogue/92-169-X) |
+| 2021 Surrey Census - Dissemination Area Level| City of Surrey   | [Link]([https://data.surrey.ca/dataset/2021-surrey-census/resource/808a285b-268a-4e3b-9493-78208c6d0481)     |
+| Road Centrelines    | City of Surrey    |  [Link](https://data.surrey.ca/dataset/road-centrelines)   |
+| Building Inventory | City of Surrey  | [Link](https://data.surrey.ca/dataset/building-inventory) |
+| Lanes | City of Vancouver | [Link](https://opendata.vancouver.ca/explore/dataset/lanes/information/) |
+| TSPR_OpenData_Catalog_FL | Translink GIS | [Link](https://www.arcgis.com/home/item.html?id=11b5561d409843a0ae27f8b490f9dda9) |
 
 ### Articles
 
