@@ -1,4 +1,4 @@
-# Earthquake Vulnerability Map
+# Community Earthquake Resilience
 
 ## 1. Introduction
 The entirety of British Columbia's south coast experiences frequent seismic activity as it sits on top of the Cascadia Subduction Zone, where the Juan de Fuca plate subducts beneath the North American plate. As it is a hotspot for seismic activity, residents of the area usually hear about "The Big One", a magnitude 9.0 earthquake projected to happen at some point, whenever an earthquake is felt. Even if it isn't 'The Big One' earthquakes are a credible threat to public safety and it is important that we are constantly improving our preparedness in case of an emergency.
@@ -31,7 +31,6 @@ Age of Resident
 
 ## 3. User guide
 
-## 4.
 
 ## References
 
@@ -47,5 +46,8 @@ Age of Resident
 
 [Pexels Video by Everett Bumstead](https://www.pexels.com/video/aerial-view-of-surrey-cityscape-with-skyscrapers-28939455/)
 [Pexels Video by Vlad Vasnetsov](https://www.pexels.com/video/flying-over-lagoon-28167396/)
+
+### Image Sources
+[Carie Frantz (Carie027), CC0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cascadia_Subduction_Zone.svg)
 
 
