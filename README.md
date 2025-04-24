@@ -74,18 +74,18 @@ community-earthquake-resilience/
 └── README.md
 ```
 
-### Technologies Used
+## Technologies Used
 
 - [React](https://reactjs.org/) - Frontend framework
 - [Leaflet](https://leafletjs.com/) - Interactive maps
 - [Recharts](https://recharts.org/) - Data visualization charts
 - [GeoJSON](https://geojson.org/) - Geographic data format
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
+## Acknowledgments
 - Map data © OpenStreetMap contributors
 
 ## 2. Methods
