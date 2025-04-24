@@ -19,11 +19,7 @@ We have identified several factors that might lead to populations being more vul
 
 This application is an interactive dashboard that showcases earthquake resilience by census dissemination in Surrey, BC. The user can switch from looking at the overal resilience score, to the individual indices that make up the score by selecting an indices in the Display Index dropdown. There is also a chart widget, where users can select an individual dissemination area to show a bar chart or a radar chart to showcase the distribution of scores in a specific dissemination area. When mousing over a dissemination area, a popup shows some more relevant information as well. 
 
-# Community Earthquake Resilience Project
-
-This repository contains a React-based web application that visualizes community earthquake resilience metrics using interactive maps and charts. The application provides an interactive dashboard for exploring and comparing resilience factors across different geographical regions.
-
-## Features
+### Features
 
 - Interactive map visualization of earthquake resilience metrics across different regions
 - Color-coded regions based on various resilience indicators
@@ -33,7 +29,7 @@ This repository contains a React-based web application that visualizes community
 - Responsive design that works on desktop and tablet devices
 - Dark mode UI for improved visibility of data
 
-## Getting Started
+### Getting Started
 
 ### Prerequisites
 
@@ -60,7 +56,7 @@ This repository contains a React-based web application that visualizes community
 
 4. Open your browser and navigate to `http://localhost:3000`
 
-## Project Structure
+### Project Structure
 
 ```
 community-earthquake-resilience/
@@ -78,48 +74,18 @@ community-earthquake-resilience/
 └── README.md
 ```
 
-## Data Structure
-
-The application uses a GeoJSON file with the following properties for each region:
-
-- `DAUID`: Dissemination Area Unique Identifier
-- `Population`: Total population in the area
-- `LANDAREA`: Land area in square kilometers
-- `PopulationDensity`: Population density (people per km²)
-- Various normalized resilience metrics:
-  - `Earthquake_Vulnerability_Index_Normalized`: Overall earthquake resilience score
-  - `Age_Normalized`: Age demographics score
-  - `Building_Age_Normalized`: Building age score
-  - `Urgent_Care_Accessibility_Normalized`: Score for access to urgent care
-  - `Hospital_Accessibility_Normalized`: Score for access to hospitals
-  - `Housing_Suitability_Normalized`: Housing suitability score
-  - `Communication_Normalized`: Communications infrastructure score
-
-All normalized metrics range from 0 to 1, where higher values indicate better resilience.
-
-## Technologies Used
+### Technologies Used
 
 - [React](https://reactjs.org/) - Frontend framework
 - [Leaflet](https://leafletjs.com/) - Interactive maps
 - [Recharts](https://recharts.org/) - Data visualization charts
 - [GeoJSON](https://geojson.org/) - Geographic data format
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- This project uses data from [data source acknowledgment]
-- Special thanks to contributors and researchers in the field of earthquake resilience
+### Acknowledgments
 - Map data © OpenStreetMap contributors
 
 ## 2. Methods
