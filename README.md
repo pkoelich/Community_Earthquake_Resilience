@@ -58,7 +58,7 @@ Using census data, we are able to find out what proportion of a Dissemination ar
 | Road Centrelines    | City of Surrey    |  [Link](https://data.surrey.ca/dataset/road-centrelines)   |
 | Building Inventory | City of Surrey  | [Link](https://data.surrey.ca/dataset/building-inventory) |
 | Hospitals in BC | BC Open Data via geo.ca | [Link](https://app.geo.ca/result?id=383eaf98-afd7-436a-9556-67ecf14f64a7&lang=en) |
-| Primary and Urgent Care Centres | BC Open Data via geo.ca | [link] (https://catalogue.data.gov.bc.ca/dataset/urgent-and-primary-care-centres) |
+| Primary and Urgent Care Centres | BC Open Data via geo.ca | [Link](https://catalogue.data.gov.bc.ca/dataset/urgent-and-primary-care-centres)
 
 ### Articles
 
