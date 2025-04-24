@@ -57,7 +57,7 @@ Using census data, we are able to find out what proportion of a Dissemination ar
 | 2021 Surrey Census - Dissemination Area Level| City of Surrey   | [Link]([https://data.surrey.ca/dataset/2021-surrey-census/resource/808a285b-268a-4e3b-9493-78208c6d0481)     |
 | Road Centrelines    | City of Surrey    |  [Link](https://data.surrey.ca/dataset/road-centrelines)   |
 | Building Inventory | City of Surrey  | [Link](https://data.surrey.ca/dataset/building-inventory) |
-| Lanes | City of Vancouver | [Link](https://opendata.vancouver.ca/explore/dataset/lanes/information/) |
+| Hospitals in BC | BC Open Data via geo.ca | [Link](https://app.geo.ca/result?id=383eaf98-afd7-436a-9556-67ecf14f64a7&lang=en) |
 | TSPR_OpenData_Catalog_FL | Translink GIS | [Link](https://www.arcgis.com/home/item.html?id=11b5561d409843a0ae27f8b490f9dda9) |
 
 ### Articles
