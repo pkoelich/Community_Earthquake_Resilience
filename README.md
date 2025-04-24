@@ -14,10 +14,6 @@ Also important is identifying vulnerable areas, where people might be more at ri
 5. Proximity to hospitals - assuming the hospital does not get severely damaged by an earthquake, how close you are to the hospital means greater access to treatment 
 6. Proximity to urgent care centres -  assuming the buildings do not get damaged by the earthquake, it is easier to recieve treatment there the closer you are to it.
 
-   
-
-
-
 ## 2. Methods
 MCDA with AHP
 
@@ -38,6 +34,18 @@ Age of Resident
 ## 4.
 
 ## References
-[CTV News - When will the 'Big One' earthquake hit? Scientists weigh in](https://www.ctvnews.ca/climate-and-environment/article/when-will-the-big-one-earthquake-hit-scientists-weigh-in/#:~:text=In%20the%20context%20of%20Canada,is%20a%20game%20of%20probability.&text=It's%20like%20guessing%20exactly%20which,rough%20estimates%20based%20on%20probability.)
-[CTV News - B.C. earthquake highlights Vancouver’s vulnerability should the ‘Big One’ arrive](https://www.ctvnews.ca/vancouver/article/bc-earthquake-highlights-vancouvers-vulnerability-should-the-big-one-arrive/#:~:text=According%20to%20the%20City%20of,city's%20residents%20would%20be%20displaced.)
+
+### Articles
+
+[CTV News - When will the 'Big One' earthquake hit? Scientists weigh in](https://www.ctvnews.ca/climate-and-environment/article/when-will-the-big-one-earthquake-hit-scientists-weigh-in/#:~:text=In%20the%20context%20of%20Canada,is%20a%20game%20of%20probability.&text=It's%20like%20guessing%20exactly%20which,rough%20estimates%20based%20on%20probability.) <br>
+
+[CTV News - B.C. earthquake highlights Vancouver’s vulnerability should the ‘Big One’ arrive](https://www.ctvnews.ca/vancouver/article/bc-earthquake-highlights-vancouvers-vulnerability-should-the-big-one-arrive/#:~:text=According%20to%20the%20City%20of,city's%20residents%20would%20be%20displaced.) <br>
+
 [Statistics Canada - Housing Suitability](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610005901)
+
+### Video Sources
+
+[Pexels Video by Everett Bumstead](https://www.pexels.com/video/aerial-view-of-surrey-cityscape-with-skyscrapers-28939455/)
+[Pexels Video by Vlad Vasnetsov](https://www.pexels.com/video/flying-over-lagoon-28167396/)
+
+
