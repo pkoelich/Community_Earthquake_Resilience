@@ -19,7 +19,7 @@ We have identified several factors that might lead to populations being more vul
 
 This application is an interactive dashboard that showcases earthquake resilience by census dissemination in Surrey, BC. The user can switch from looking at the overal resilience score, to the individual indices that make up the score by selecting an indices in the Display Index dropdown. There is also a chart widget, where users can select an individual dissemination area to show a bar chart or a radar chart to showcase the distribution of scores in a specific dissemination area. When mousing over a dissemination area, a popup shows some more relevant information as well. 
 
-### Features
+## Features
 
 - Interactive map visualization of earthquake resilience metrics across different regions
 - Color-coded regions based on various resilience indicators
@@ -29,7 +29,7 @@ This application is an interactive dashboard that showcases earthquake resilienc
 - Responsive design that works on desktop and tablet devices
 - Dark mode UI for improved visibility of data
 
-### Getting Started
+## Getting Started
 
 ### Prerequisites
 
