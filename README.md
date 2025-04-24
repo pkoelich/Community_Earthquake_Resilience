@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - Map data © OpenStreetMap contributors
 
-## 2. Methods
+## 3. Methods
 
 This information product is derived from a series of indices, which were derived from raw open data, some of which was obtained from geo.ca. The methods for deriving the 
 
@@ -106,19 +106,39 @@ Using census data, we are able to find out what proportion of a Dissemination ar
 
 ### Building Age
 
-
+This was done by doing a spatial join with summary statistics of the surrey building inventory to the surrey dissemination area polygons. We then used the median building age as a score, the normalized it for use in the AHP.
 
 ### Housing Suitability
 
+We calculated this by taking the proportion of those who live in unsuitable housing and housing that is considered in need of major repairs for each Dissemination Area. The score was then min-max normalized for use in the AHP.
+
 ### Age of Resident
 
+We calculated the proportion of residents in each dissemination area that was 14 years and below and above 65 years old. The score was then min-max normalized for use in the AHP.
 
 
+### Assigning Weights
 
+Weights were assigned using the Analytic Heirarchy Process, where the importance of each layer was 
 
-## References
+### Calculating the final index
 
-## Information Sources
+The final index was calculated by multiplying the individual index scores by their respective weights according to the AHP
+
+## 4. Limitations
+
+The analysis in this is quite limited, and several large assumptions have been made when performing this analysis:
+
+1. That the earthquake would not severely damage roads and healthcare facilities in such a manner that they are rendered inoperable
+2. Generalization of population, for example that under 14 and over 65 are all less mobile or more dependent than those with ages in between.
+3. Many people in the lower mainland do not speak French, just English, but we chose to include both as they are the official languages of Canada.
+4. Newer built buildings are on average more resistant to earthquakes than older ones.
+
+Further efforts can be made towards making fewer assumptions about the data.
+
+## 5. References
+
+### . Information Sources:
 
 | Name    | Source |    link | 
 | -------- | ------- |  ------- |
@@ -129,7 +149,7 @@ Using census data, we are able to find out what proportion of a Dissemination ar
 | Hospitals in BC | BC Open Data via geo.ca | [Link](https://app.geo.ca/result?id=383eaf98-afd7-436a-9556-67ecf14f64a7&lang=en) |
 | Primary and Urgent Care Centres | BC Open Data via geo.ca | [Link](https://catalogue.data.gov.bc.ca/dataset/urgent-and-primary-care-centres)
 
-### Articles
+### Articles:
 
 [CTV News - When will the 'Big One' earthquake hit? Scientists weigh in](https://www.ctvnews.ca/climate-and-environment/article/when-will-the-big-one-earthquake-hit-scientists-weigh-in/#:~:text=In%20the%20context%20of%20Canada,is%20a%20game%20of%20probability.&text=It's%20like%20guessing%20exactly%20which,rough%20estimates%20based%20on%20probability.) <br>
 
@@ -137,10 +157,11 @@ Using census data, we are able to find out what proportion of a Dissemination ar
 
 [Statistics Canada - Housing Suitability](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610005901)
 
-### Video Sources
+### Video Sources:
 
 [Pexels Video by Everett Bumstead](https://www.pexels.com/video/aerial-view-of-surrey-cityscape-with-skyscrapers-28939455/)
 [Pexels Video by Vlad Vasnetsov](https://www.pexels.com/video/flying-over-lagoon-28167396/)
+[Pexels Video by Altaf Shah](https://www.pexels.com/video/aerial-night-view-of-busy-city-street-31689948/)
 
 ### Image Sources
 [Carie Frantz (Carie027), CC0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cascadia_Subduction_Zone.svg)
